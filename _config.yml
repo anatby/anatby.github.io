@@ -2,4 +2,6 @@ url: https://anatby.github.io
 baseurl:
 title: Anat Ben-Yaacov
 description: PhD Student in Computer Science Education
-theme: jekyll-theme-minimal
+author:
+  name: "Anat Ben-Yaacov"
+  email: "anat.ben-yaacov@weizmann.ac.il"
